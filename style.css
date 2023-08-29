@@ -1,0 +1,16 @@
+body{
+    background-image: url("assets/numsec1.jpg");
+    display: flex;
+    text-align: center;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#butn{
+ padding: 10px 20px;
+ background-color:lightblue;
+}
+#guess{
+    padding: 10px;
+    border-radius: 10px;
+}
